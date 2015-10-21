@@ -31,7 +31,7 @@ module FootballTeams
     STL: "Saint Louis Rams",
     TB: "Tampa Bay Buccaneers",
     TEN: "Tennessee Titans",
-    WAS: "Washington Redskins",
+    WAS: "Washington Redskins"
   }
 
     def self.get
